@@ -31,7 +31,7 @@ This class is based on Hyper Text Markup Language (HTML), Cascading Style Sheets
 This course is part of a [Platzi Challenge](https://platzi.com/blog/portafolio-web-2022/) I participated on. In which for two months, I got the oportunity to join 24 live meeting and multiple classes with the only purpose of creating a Web Portaflio.
 
 ### Project deployed using:
- - Vercel: [View Demo](https://twitter-opal-three.vercel.app/)
+ - Vercel: [View Demo](https://twitter-jpdiaz.vercel.app/)
 
 - Github Pages: [https://juanpablodiaz.github.io/twitter](https://juanpablodiaz.github.io/twitter/)
 
